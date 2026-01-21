@@ -1,3 +1,3 @@
-![Team Banner](/profile/resources/ApplePlatformsTeam.png) 
+![Team Banner](/resources/ApplePlatformsTeam.png) 
 
-![hello](/profile/resources/hello.png) 
+![hello](/resources/hello.png) 
